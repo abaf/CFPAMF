@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\bin\Debug\YcloasLogParser.exe.config
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\bin\Debug\YcloasLogParser.exe
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\bin\Debug\YcloasLogParser.pdb
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\obj\Debug\YcloasLogParser.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\obj\Debug\YcloasLogParser.exe
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloasLogParser\obj\Debug\YcloasLogParser.pdb

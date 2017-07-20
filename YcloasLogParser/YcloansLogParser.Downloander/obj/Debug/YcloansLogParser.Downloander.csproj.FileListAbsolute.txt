@@ -1,0 +1,5 @@
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloansLogParser.Downloander\bin\Debug\YcloansLogParser.Downloander.dll
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloansLogParser.Downloander\bin\Debug\YcloansLogParser.Downloander.pdb
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloansLogParser.Downloander\obj\Debug\YcloansLogParser.Downloander.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloansLogParser.Downloander\obj\Debug\YcloansLogParser.Downloander.dll
+C:\Users\Administrator\Source\Repos\CFPAMF\YcloasLogParser\YcloansLogParser.Downloander\obj\Debug\YcloansLogParser.Downloander.pdb
